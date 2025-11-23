@@ -40,5 +40,5 @@ Testing from inside the project folder:
 g++ -std=c++11 -o Spellcheck Spellcheck.cpp
 
 ## Testing Program:
->> After compiling the program you should see the Spellcheck.exe program file
+>> After compiling the program you should see the 'Spellcheck.exe' program file
 >> Now Run the following: .\Spellcheck sample_input.txt
